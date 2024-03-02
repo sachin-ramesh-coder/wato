@@ -19,4 +19,3 @@ Here is a step-by-step process for you to start using Wato:\
 
 In case of any queries, feel free to contact us. write us to mani@wato.ai
 
-\
